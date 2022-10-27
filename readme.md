@@ -1,6 +1,6 @@
 ## Personal Porfolio Site
 
-My personal portfolio site. Can be viewed at https://WIllDoMan.github.io
+My personal portfolio site. Can be viewed at https://osephson.github.io
 
 ## Built with
 
